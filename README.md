@@ -22,7 +22,7 @@ I'm a brand-new programmer who's super excited to learn and explore everything a
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![]()
+![](https://github-contributor-stats.vercel.app/api?username=alin262&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
