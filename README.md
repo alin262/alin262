@@ -43,13 +43,6 @@ Building mobile apps, backend APIs and IoT systems while learning cloud and DevO
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alin262&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alin262&layout=compact&theme=tokyonight)
-
----
 
 ## 🎮 Pacman Contribution Graph
 
