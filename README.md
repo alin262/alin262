@@ -47,9 +47,9 @@ Building mobile apps, backend APIs and IoT systems while learning cloud and DevO
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alin262&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alin262&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alin262&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alin262&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -62,7 +62,6 @@ Building mobile apps, backend APIs and IoT systems while learning cloud and DevO
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alin262/alin262/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alin262/alin262/output/pacman-contribution-graph.svg">
 </picture>
-
 ---
 
 ## 📌 Featured Projects
