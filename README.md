@@ -43,8 +43,7 @@ Building mobile apps, backend APIs and IoT systems while learning cloud and DevO
 
 ---
 
->>>>>>> test-pacman
-## 🎮 Pacman Contribution Graph
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alin262/alin262/output/pacman-contribution-graph-dark.svg">
