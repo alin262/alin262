@@ -17,7 +17,7 @@ Building mobile apps, backend APIs and IoT systems while learning cloud and DevO
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack.
 
 ### Languages
 
